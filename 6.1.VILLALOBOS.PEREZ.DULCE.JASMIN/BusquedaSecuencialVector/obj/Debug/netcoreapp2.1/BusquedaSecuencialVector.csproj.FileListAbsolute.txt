@@ -1,0 +1,11 @@
+C:\Users\villa\source\repos\6.1.VILLALOBOS.PEREZ.DULCE.JASMIN\BusquedaSecuencialVector\obj\Debug\netcoreapp2.1\BusquedaSecuencialVector.csproj.CoreCompileInputs.cache
+C:\Users\villa\source\repos\6.1.VILLALOBOS.PEREZ.DULCE.JASMIN\BusquedaSecuencialVector\obj\Debug\netcoreapp2.1\BusquedaSecuencialVector.AssemblyInfoInputs.cache
+C:\Users\villa\source\repos\6.1.VILLALOBOS.PEREZ.DULCE.JASMIN\BusquedaSecuencialVector\obj\Debug\netcoreapp2.1\BusquedaSecuencialVector.AssemblyInfo.cs
+C:\Users\villa\source\repos\6.1.VILLALOBOS.PEREZ.DULCE.JASMIN\BusquedaSecuencialVector\bin\Debug\netcoreapp2.1\BusquedaSecuencialVector.deps.json
+C:\Users\villa\source\repos\6.1.VILLALOBOS.PEREZ.DULCE.JASMIN\BusquedaSecuencialVector\bin\Debug\netcoreapp2.1\BusquedaSecuencialVector.runtimeconfig.json
+C:\Users\villa\source\repos\6.1.VILLALOBOS.PEREZ.DULCE.JASMIN\BusquedaSecuencialVector\bin\Debug\netcoreapp2.1\BusquedaSecuencialVector.runtimeconfig.dev.json
+C:\Users\villa\source\repos\6.1.VILLALOBOS.PEREZ.DULCE.JASMIN\BusquedaSecuencialVector\bin\Debug\netcoreapp2.1\BusquedaSecuencialVector.dll
+C:\Users\villa\source\repos\6.1.VILLALOBOS.PEREZ.DULCE.JASMIN\BusquedaSecuencialVector\bin\Debug\netcoreapp2.1\BusquedaSecuencialVector.pdb
+C:\Users\villa\source\repos\6.1.VILLALOBOS.PEREZ.DULCE.JASMIN\BusquedaSecuencialVector\obj\Debug\netcoreapp2.1\BusquedaSecuencialVector.csprojAssemblyReference.cache
+C:\Users\villa\source\repos\6.1.VILLALOBOS.PEREZ.DULCE.JASMIN\BusquedaSecuencialVector\obj\Debug\netcoreapp2.1\BusquedaSecuencialVector.dll
+C:\Users\villa\source\repos\6.1.VILLALOBOS.PEREZ.DULCE.JASMIN\BusquedaSecuencialVector\obj\Debug\netcoreapp2.1\BusquedaSecuencialVector.pdb
