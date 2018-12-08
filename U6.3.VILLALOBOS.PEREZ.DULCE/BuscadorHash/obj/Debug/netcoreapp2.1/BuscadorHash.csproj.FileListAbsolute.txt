@@ -1,0 +1,11 @@
+C:\Users\villa\Desktop\UNIDAD6\U6.3.VILLALOBOS.PEREZ.DULCE\BuscadorHash\bin\Debug\netcoreapp2.1\BuscadorHash.deps.json
+C:\Users\villa\Desktop\UNIDAD6\U6.3.VILLALOBOS.PEREZ.DULCE\BuscadorHash\bin\Debug\netcoreapp2.1\BuscadorHash.runtimeconfig.json
+C:\Users\villa\Desktop\UNIDAD6\U6.3.VILLALOBOS.PEREZ.DULCE\BuscadorHash\bin\Debug\netcoreapp2.1\BuscadorHash.runtimeconfig.dev.json
+C:\Users\villa\Desktop\UNIDAD6\U6.3.VILLALOBOS.PEREZ.DULCE\BuscadorHash\bin\Debug\netcoreapp2.1\BuscadorHash.dll
+C:\Users\villa\Desktop\UNIDAD6\U6.3.VILLALOBOS.PEREZ.DULCE\BuscadorHash\bin\Debug\netcoreapp2.1\BuscadorHash.pdb
+C:\Users\villa\Desktop\UNIDAD6\U6.3.VILLALOBOS.PEREZ.DULCE\BuscadorHash\obj\Debug\netcoreapp2.1\BuscadorHash.csprojAssemblyReference.cache
+C:\Users\villa\Desktop\UNIDAD6\U6.3.VILLALOBOS.PEREZ.DULCE\BuscadorHash\obj\Debug\netcoreapp2.1\BuscadorHash.csproj.CoreCompileInputs.cache
+C:\Users\villa\Desktop\UNIDAD6\U6.3.VILLALOBOS.PEREZ.DULCE\BuscadorHash\obj\Debug\netcoreapp2.1\BuscadorHash.AssemblyInfoInputs.cache
+C:\Users\villa\Desktop\UNIDAD6\U6.3.VILLALOBOS.PEREZ.DULCE\BuscadorHash\obj\Debug\netcoreapp2.1\BuscadorHash.AssemblyInfo.cs
+C:\Users\villa\Desktop\UNIDAD6\U6.3.VILLALOBOS.PEREZ.DULCE\BuscadorHash\obj\Debug\netcoreapp2.1\BuscadorHash.dll
+C:\Users\villa\Desktop\UNIDAD6\U6.3.VILLALOBOS.PEREZ.DULCE\BuscadorHash\obj\Debug\netcoreapp2.1\BuscadorHash.pdb

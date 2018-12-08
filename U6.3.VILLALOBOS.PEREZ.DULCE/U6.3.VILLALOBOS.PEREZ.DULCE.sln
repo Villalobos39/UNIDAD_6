@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuscadorHash", "BuscadorHash\BuscadorHash.csproj", "{5DB02564-C5DF-4CD6-BB85-D9353B7F78B7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HASH", "..\U6.2.VILLALOBOS.PEREZ\HASH\HASH.csproj", "{EA075D02-AA60-4483-A871-FC78966EBF80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DB02564-C5DF-4CD6-BB85-D9353B7F78B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DB02564-C5DF-4CD6-BB85-D9353B7F78B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DB02564-C5DF-4CD6-BB85-D9353B7F78B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DB02564-C5DF-4CD6-BB85-D9353B7F78B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA075D02-AA60-4483-A871-FC78966EBF80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA075D02-AA60-4483-A871-FC78966EBF80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA075D02-AA60-4483-A871-FC78966EBF80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA075D02-AA60-4483-A871-FC78966EBF80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AB0EB07-9987-40C4-91BB-04A532DDF88F}
+	EndGlobalSection
+EndGlobal
